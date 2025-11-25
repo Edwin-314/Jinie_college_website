@@ -1,0 +1,7 @@
+{
+  "name": "Jinie College",
+  "description": "A modern, minimalistic website for Jinie College, a leading Nigerian secondary school in Kaduna featuring an interactive school calendar and admissions portal.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
